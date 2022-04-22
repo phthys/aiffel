@@ -1,5 +1,5 @@
-# 아이펠 Exploration 정리
-지금까지 진행했던 Exploration 목록들을 정리한 repository
+# 아이펠 Exploration
+지금까지 진행했던 Exploration 프로젝트 정리
 
 순서 | 제목 | 요약 | 링크 
 ---|---|---|---|
